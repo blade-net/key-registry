@@ -10,7 +10,7 @@ List of deployed versions
 
 ### 0.2.0
 
-* Ropsten: 0x8708975b585762a09aa568736a5298d6845772b7
+* Ropsten: 0xaefa65b3bc926e0b29f7f90c3eaf877028815285
 
 ## Compilation
 
